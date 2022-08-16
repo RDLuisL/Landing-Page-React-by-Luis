@@ -17,7 +17,7 @@ const JumboTron = ()=> {
 
 
 
-    </div>
+
     )
    
 
