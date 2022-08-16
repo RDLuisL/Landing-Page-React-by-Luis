@@ -1,10 +1,6 @@
-.body {
+@import "~bootstrap/scss/bootstrap.scss";
 
-}
 
-.nav {
-    
-}
 /* 
 
     You can write your own styles here...
@@ -16,3 +12,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+img {
+    width: 400px;
+}
