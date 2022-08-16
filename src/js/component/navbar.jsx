@@ -2,8 +2,6 @@ import React from "react";
 //esto es importar una dependencia de React para que se reconozcan los PropTypes
 import PropTypes from "prop-types";
 
-//include images into your bundle
-import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
 const Navbar = () => {
