@@ -2,7 +2,7 @@ import React from "react";
 
 const JumboTron = ()=> {
     return (
-        <div className="jumbotron">
+        <div className="JumboTron">
   <h1 className="display-4">Evangelion</h1>
         <p className="lead">Los Evangelion (エヴァンゲリオン), abreviado EVAs, son mechas de combate pilotados por los Children Rei Ayanami, Asuka Langley Soryu y Shinji Ikari. Fueron diseñados por Ikuto Yamashita y el director de la serie Hideaki Anno.
         </p>
@@ -14,14 +14,7 @@ const JumboTron = ()=> {
     <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 
 </div>
-
-
-
-
     )
-   
-
-
-   
 
 }
+export default JumboTron;
