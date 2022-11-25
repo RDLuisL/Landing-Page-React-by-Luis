@@ -4,9 +4,10 @@ import PropTypes from "prop-types";
 
 const Footer = ()=> {
     return (
-        <div className="text-bg-dark p-3"> Copywright @ Luis Luna 2022</div>;
-    )
-}
+        <div className="text-bg-dark p-3"> Copywright @ Luis Luna 2022
+        </div>
+    );
+};
 
 export default Footer;
 
