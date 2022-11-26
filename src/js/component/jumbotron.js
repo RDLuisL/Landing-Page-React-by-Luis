@@ -1,6 +1,6 @@
 import React from "react";
 
-const JumboTron = ()=> {
+const Jumbo = ()=> {
     return (
         <div className="JumboTron">
   <h1 className="display-4">Neo Genesis Evangelion</h1>
@@ -17,4 +17,4 @@ const JumboTron = ()=> {
     )
 
 }
-export default JumboTron;
+export default Jumbo;
