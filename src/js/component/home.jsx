@@ -7,6 +7,7 @@ import Navbar from "./navbar.js";
 import Jumbo from "./jumbotron.js";
 import Footer from "./footer.js";
 
+
 const Home = () => {
 	return (
 		<>

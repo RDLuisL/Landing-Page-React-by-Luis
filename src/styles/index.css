@@ -1,22 +1,17 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+
 /* 
+
     You can write your own styles here...
+    
+    
     ...Or you can use the import command to include 
     other sylesheets into your bunde as well, e.j:
+    
     import 'relative/path/to/stylesheet.scss';
+
 */
-
-body {
-    background-color: #0a1215;
-    background-image: url(https://formacionuniversitaria.com/wp-content/uploads/croupier.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-  }
-
-/* img {
+img {
     width: 400px;
-} */
-
-
+}
